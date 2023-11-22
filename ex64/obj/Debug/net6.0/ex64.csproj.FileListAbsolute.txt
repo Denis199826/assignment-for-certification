@@ -1,0 +1,16 @@
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ex64
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ex64.deps.json
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ex64.runtimeconfig.json
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ex64.dll
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ref/ex64.dll
+/Users/denisbykov/Desktop/certification/ex64/bin/Debug/net6.0/ex64.pdb
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.GlobalUsings.g.cs
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.csproj.AssemblyReference.cache
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.AssemblyInfoInputs.cache
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.AssemblyInfo.cs
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.csproj.CoreCompileInputs.cache
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.dll
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ref/ex64.dll
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.pdb
+/Users/denisbykov/Desktop/certification/ex64/obj/Debug/net6.0/ex64.genruntimeconfig.cache
